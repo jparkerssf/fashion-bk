@@ -36,5 +36,12 @@
   "fashUser": {
     "dataSource": "mongo",
     "public": true
+  },
+
+  "Comments": {
+    "dataSource": "mongo",
+    "public": true
   }
+
 }
+
