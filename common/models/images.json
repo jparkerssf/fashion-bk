@@ -9,14 +9,11 @@
     "image": {
       "type": "string",
       "required": false
-    },
-     "imageID": {
-      "type": "string",
-      "required": false
-    },
+    }
+  },
   "validations": [],
   "relations": {},
   "acls": [],
   "methods": {}
 }
-}
+

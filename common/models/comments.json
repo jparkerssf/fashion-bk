@@ -10,13 +10,14 @@
       "type": "string",
       "required": false
     },
-     "userID": {
+     "imageID": {
       "type": "string",
       "required": true
-    },
+    }
+  },
   "validations": [],
   "relations": {},
   "acls": [],
   "methods": {}
 }
-}
+
