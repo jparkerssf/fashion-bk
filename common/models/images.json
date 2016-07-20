@@ -1,0 +1,22 @@
+{
+  "name": "Images",
+  "base": "PersistedModel",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true
+  },
+  "properties": {
+    "image": {
+      "type": "string",
+      "required": false
+    },
+     "imageID": {
+      "type": "string",
+      "required": false
+    },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": {}
+}
+}

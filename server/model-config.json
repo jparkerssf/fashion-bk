@@ -41,7 +41,15 @@
   "Comments": {
     "dataSource": "mongo",
     "public": true
+  },
+
+   "Images": {
+    "dataSource": "mongo",
+    "public": true
   }
+  
+  
+  
 
 }
 
