@@ -8,8 +8,28 @@
   "properties": {},
   "validations": [],
   "relations": {},
-"acls": [],
+"acls": [ 
+  
+  {
+      "accessType": "*",
+      "principalType": "ROLE",
+      "principalId": "$authenticated",
+      "permission": "ALLOW"
+    },
+     {
+      "accessType": "*",
+      "principalType": "ROLE",
+      "principalId": "$unauthenticated",
+      "permission": "ALLOW"
+    }
+  
+  
+  
+  ],
   
 
   "methods": {}
+
+  
+  
 }
